@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m a Java Developer<br>💬 Ask me about Java Spring, and Spring Boot<br>📫 Reach me at santoshkumawat@duck.com<br>
+🔭 I’m a Java Developer<br>💬 Ask me about Java, Spring, and Spring Boot<br>📫 Reach me at santoshkumawat@duck.com<br>
 
 
 ## 🌐 Socials:
