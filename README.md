@@ -1,6 +1,5 @@
 # 💫 About Me:
-🔭 I’m a Java Developer<br>💬 Ask me about Java, Spring, and Spring Boot<br>📫 Reach me at santoshkumaawat@gmail.com<br>
-
+🔭 I’m a Java Developer<br>💬 Ask me about Java, Spring, and Spring Boot<br>📫 Reach me at santoshkumaawat@gmail.com
 
 # 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/santoshkumawat._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/santosh-kumawat) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/santoshkumawat_) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/santoshkumawat_) 
@@ -14,12 +13,11 @@
 <br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=santoshkumawat&theme=onedark&hide_border=true)
 
-## 🏆 GitHub Trophies
+# 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=santoshkumawat&theme=onedark&no-frame=true&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
+# ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=santoshkumawat&icon=5&color=0)](https://visitcount.itsvg.in)
-
