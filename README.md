@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m a Java Developer<br>💬 Ask me about Java, Spring, and Spring Boot<br>📫 Reach me at santoshkumaawat@gmail.com
+🔭 I’m a Software Engineer<br>💬 Ask me about Java, Spring, and Spring Boot<br>📫 Reach me at santoshkumaawat@gmail.com
 
 # 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/santoshkumawat._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/santosh-kumawat) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/santoshkumawat_) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/santoshkumawat_) 
