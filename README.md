@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **santoshkumawat.se@gmail.com**
 
-- 📄 Know about my experiences [https://santoshkumawat.netlify.app/Santosh_Kumawat_Resume.pdf](https://santoshkumawat.netlify.app/Santosh_Kumawat_Resume.pdf)
+- 📄 Know about my experiences [click here](https://santoshkumawat.netlify.app/Santosh_Kumawat_Resume.pdf)
 
 <hr>
 
