@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Santosh and I'm a Software Engineer, from Mandsaur M. P.</h2>
+<h2 align="center">Hi 👋! My name is Santosh and I'm a Software Engineer, from Mandsaur M. P.</h2>
 
 ###
 
