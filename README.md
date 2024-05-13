@@ -1,16 +1,8 @@
-<h2 align="center">Hi 👋! My name is Santosh and I'm a Software Engineer, from Mandsaur M. P.</h2>
+<h2 align="left">Hi 👋! My name is Santosh and I'm a Software Engineer, from Mandsaur M. P.</h2>
 
 ###
 
-<br clear="both">
-
-<!-- <di  align="center">
-  <img height="300" src="https://w0.peakpx.com/wallpaper/347/549/HD-wallpaper-baby-groot-gauntlet-baby-groot-superheroes.jpg"  />
-</div> -->
-
-###
-
-<div align="center">
+<div align="left">
   <img src="https://profile-counter.glitch.me/santoshkumawat/count.svg?"  />
 </div>
 
@@ -18,7 +10,7 @@
 
 <br clear="both">
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=santoshkumawat&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=santoshkumawat&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=santoshkumawat&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=false" height="150" alt="languages graph"  />
@@ -26,9 +18,7 @@
 
 ###
 
-<br clear="both">
-
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35" alt="java logo"  />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="35" alt="spring logo"  />
@@ -52,9 +42,7 @@
 
 ###
 
-<br clear="both">
-
-<div align="center">
+<div align="left">
   <a href="https://www.instagram.com/santoshkumawat.dev/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=santoshkumawat.dev&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="35" alt="instagram logo"  />
   </a>
@@ -70,7 +58,7 @@
   <a href="https://linktr.ee/santoshkumawat" target="_blank">
     <img src="https://img.shields.io/static/v1?message=santoshkumawat&logo=linktree&label=&color=1de9b6&logoColor=white&labelColor=&style=flat" height="35" alt="linktree logo"  />
   </a>
-  <a href="https://t.me/santoshkumawat7" target="_blank">
+  <a href="t.me/santoshkumawat7" target="_blank">
     <img src="https://img.shields.io/static/v1?message=santoshkumawat7&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=flat" height="35" alt="telegram logo"  />
   </a>
   <a href="https://twitter.com/santoshkumawat_" target="_blank">
@@ -85,8 +73,6 @@
 
 <br clear="both">
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/santoshkumawat/santoshkumawat/output/snake.svg" alt="Snake animation" />
-</div>
+<img src="https://raw.githubusercontent.com/santoshkumawat/santoshkumawat/output/snake.svg" alt="Snake animation" />
 
 ###
