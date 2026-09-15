@@ -146,10 +146,23 @@ Expensely is a personal finance application designed to make tracking expenses a
 
 ---
 
-## 📈 Contribution Graph
+## 🐍 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=santoshkumawat&theme=tokyo-night&hide_border=true"/>
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/santoshkumawat/santoshkumawat/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/santoshkumawat/santoshkumawat/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="GitHub contribution graph"
+      src="https://raw.githubusercontent.com/santoshkumawat/santoshkumawat/output/github-contribution-grid-snake.svg"
+    />
+  </picture>
 </p>
 
 ---
