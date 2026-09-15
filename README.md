@@ -119,16 +119,6 @@ Expensely is a personal finance application designed to make tracking expenses a
 
 ---
 
-## 🌐 Personal Portfolio
-
-<p align="center">
-  <a href="YOUR_PORTFOLIO_URL">
-    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-  </a>
-</p>
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
