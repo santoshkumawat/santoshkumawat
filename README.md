@@ -115,7 +115,7 @@ Expensely is a personal finance application designed to make tracking expenses a
 
 ### 🛠️ Tech
 
-**React 18 · Spring Boot 3 · MongoDB · Netlify · Render · Android WebView**
+**React 19 · Spring Boot 4 · Java 21 · MongoDB · Netlify · Render · Android WebView**
 
 ---
 
